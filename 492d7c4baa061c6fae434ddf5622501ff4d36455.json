@@ -1,0 +1,32 @@
+{
+    "cve": null,
+    "cwe": null,
+    "commit": "492d7c4baa061c6fae434ddf5622501ff4d36455",
+    "url": "https://github.com/jithin-renji/Nuke.git",
+    "functions": [
+        {
+            "name": "nuke",
+            "path": "src/nuke.c",
+            "start_line": 38,
+            "end_line": 91
+        },
+        {
+            "name": "confirm",
+            "path": "src/nuke.c",
+            "start_line": 93,
+            "end_line": 109
+        },
+        {
+            "name": "clear_drv",
+            "path": "src/nuke.c",
+            "start_line": 111,
+            "end_line": 148
+        },
+        {
+            "name": "rand_drv",
+            "path": "src/nuke.c",
+            "start_line": 150,
+            "end_line": 183
+        }
+    ]
+}
